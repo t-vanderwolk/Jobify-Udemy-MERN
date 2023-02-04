@@ -21,4 +21,24 @@ npm run install-dependencies
 npm start
 ```
 
-- visit url http://localhost:3000/# Jobify-Udemy-MERN
+- visit url http://localhost:3000/
+
+#### Setup React App
+
+- create <b>client</b> folder
+- open terminal
+
+```sh
+cd client
+```
+
+```sh
+npx create-react-app .
+```
+
+```sh
+npm start
+```
+
+- set editor/browser side by side
+- copy/paste assets from complete project
